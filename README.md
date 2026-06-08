@@ -1,4 +1,4 @@
-# 🚀 Braço Robótico de Coleta de Amostras (Docking & Retrieval)
+# 🚀 Braço Robótico de Coleta de Amostras
 
 > Projeto desenvolvido para a disciplina **Project-Based Maker Lab (PBML)** da FIAP, com foco na manipulação de amostras em ambientes de microgravidade inspirados na indústria espacial.
 
